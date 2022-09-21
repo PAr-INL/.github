@@ -1,0 +1,1 @@
+This organization is the result of the association of Armand Didierjean and Victor Angot within the scope of their second year research work at the Ecole Centrale de Lyon. It aims at giving access to the open code of the project's implementations as well as the results. This organization also allows the project to be managed internally.
